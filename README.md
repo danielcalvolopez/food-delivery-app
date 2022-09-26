@@ -1,6 +1,6 @@
-### `npm start`
+### `npm start` To start the app
 
-### `npm test`
+### `npm test` To test the app
 
 This project is a food delivery simulator, that fetch the data of the menus (or restaurants) from a database I created on Firebase and displays it with the map function on the main page.
 
