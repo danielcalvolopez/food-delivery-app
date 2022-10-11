@@ -10,7 +10,7 @@ html {
 
 body {
   margin: 0;
-  background-color: var(--dark-background);
+  background-color: #fefae0;
 
   --primary: #bc6c25;
   --primary-hover: #7a4517;
